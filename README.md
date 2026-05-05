@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Shubhz20/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shubhz20/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shubhz20/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
@@ -234,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shubhz20/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Shubhz20/Leetcode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
